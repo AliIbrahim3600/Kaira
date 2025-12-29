@@ -1,0 +1,17 @@
+:root {
+  /* start colors */
+  --bs-primary: #8c907e;
+  --bs-secondary: #6c757d;
+  --bs-black: #111;
+  --bs-light: #f1f1f0;
+  --bs-dark: #212529;
+  --bs-gray: #9aa1a7;
+  --bs-gray-dark: #51565b;
+  /* end colors */
+
+  
+  /* start fonts */
+  --heading-font: "Marcellus", Roboto, sans-serif;
+  --bs-body-font-family: "Jost", Roboto, sans-serif;
+  /* end fonts */
+}
