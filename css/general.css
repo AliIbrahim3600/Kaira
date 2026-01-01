@@ -1,0 +1,28 @@
+.container{
+    padding-inline: 7rem;
+}
+
+.y-shift{
+    padding-block: 3rem;
+}
+
+@media (max-width:600px){
+   .container{
+    padding-inline: 3.5rem;
+}
+
+.y-shift{
+    padding-block: 1.5rem;
+}
+ 
+}
+@media (max-width:400px){
+   .container{
+    padding-inline: 2rem;
+}
+
+.y-shift{
+    padding-block: 1rem;
+}
+ 
+}
